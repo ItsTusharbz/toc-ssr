@@ -1,9 +1,10 @@
+# ssr
 To start the project
 
-setup 
+# setup 
   npm install
 
-run 
+# run 
   npm run build
   npm run start
 
